@@ -24,4 +24,13 @@ I've been interested in programming and understanding complex systems. Currently
 <b>My GitHub Stats</b>
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 08 February 2026 - To: 08 February 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
