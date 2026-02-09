@@ -25,8 +25,8 @@ I've been interested in programming and understanding complex systems. Currently
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 08 February 2026 - To: 08 February 2026
+```txt
+From: 01 February 2026 - To: 08 February 2026
 
 Total Time: 0 secs
 
