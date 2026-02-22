@@ -26,19 +26,19 @@ I've been interested in programming and understanding complex systems. Currently
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Total Time: 16 hrs 42 mins
+Total Time: 16 hrs 1 min
 
-TypeScript                 6 hrs 34 mins         >>>>>>>>>>---------------   39.40 %
-ca65 assembler             4 hrs 5 mins          >>>>>>-------------------   24.52 %
-JavaScript                 2 hrs 15 mins         >>>----------------------   13.47 %
-C                          1 hr 20 mins          >>-----------------------   08.02 %
-Markdown                   37 mins               >------------------------   03.75 %
-Assembly                   23 mins               >------------------------   02.29 %
-Prisma                     18 mins               -------------------------   01.87 %
-Makefile                   18 mins               -------------------------   01.85 %
-Docker                     10 mins               -------------------------   01.06 %
+TypeScript                 5 hrs 43 mins         >>>>>>>>>----------------   35.72 %
+ca65 assembler             4 hrs 5 mins          >>>>>>-------------------   25.58 %
+JavaScript                 2 hrs 21 mins         >>>>---------------------   14.75 %
+C                          1 hr 20 mins          >>-----------------------   08.37 %
+Markdown                   40 mins               >------------------------   04.18 %
+Assembly                   23 mins               >------------------------   02.39 %
+Prisma                     18 mins               -------------------------   01.95 %
+Makefile                   18 mins               -------------------------   01.93 %
+Docker                     10 mins               -------------------------   01.10 %
 ```
 
 <!--END_SECTION:waka-->
