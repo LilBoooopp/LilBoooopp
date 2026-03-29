@@ -26,15 +26,16 @@ I've been interested in programming and understanding complex systems. Currently
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2026 - To: 26 March 2026
+From: 20 March 2026 - To: 27 March 2026
 
-Total Time: 5 hrs 53 mins
+Total Time: 3 hrs 4 mins
 
-Python       2 hrs 7 mins          >>>>>>>>>----------------   36.12 %
-C            1 hr 24 mins          >>>>>>-------------------   23.82 %
-Text         40 mins               >>>----------------------   11.38 %
-TypeScript   28 mins               >>-----------------------   07.96 %
-Other        14 mins               >------------------------   04.06 %
+C        1 hr 24 mins          >>>>>>>>>>>--------------   45.71 %
+Python   43 mins               >>>>>>-------------------   23.65 %
+Bash     35 mins               >>>>>--------------------   19.07 %
+Docker   6 mins                >------------------------   03.57 %
+Lua      6 mins                >------------------------   03.41 %
+Other    5 mins                >------------------------   03.23 %
 ```
 
 <!--END_SECTION:waka-->
