@@ -26,15 +26,13 @@ I've been interested in programming and understanding complex systems. Currently
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2026 - To: 31 March 2026
+From: 25 March 2026 - To: 01 April 2026
 
-Total Time: 2 hrs 7 mins
+Total Time: 36 mins
 
-C       1 hr 24 mins          >>>>>>>>>>>>>>>>>--------   66.37 %
-Bash    35 mins               >>>>>>>------------------   27.69 %
-Lua     6 mins                >------------------------   04.95 %
-Text    1 min                 -------------------------   00.94 %
-Other   0 secs                -------------------------   00.05 %
+Bash    35 mins               >>>>>>>>>>>>>>>>>>>>>>>>-   96.52 %
+Text    1 min                 >------------------------   03.29 %
+Other   0 secs                -------------------------   00.18 %
 ```
 
 <!--END_SECTION:waka-->
