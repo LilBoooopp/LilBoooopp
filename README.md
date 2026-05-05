@@ -26,4 +26,15 @@ I've been interested in programming and understanding complex systems. Currently
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 05 May 2026 - To: 06 May 2026
+
+Total Time: 0 hrs 59 mins
+
+INI        0 hrs 13 mins         >>>>>>-------------------   22.00 %
+Markdown   0 hrs 6 mins          >>>----------------------   10.66 %
+C          0 hrs 6 mins          >>>----------------------   10.01 %
+Asm        0 hrs 3 mins          >------------------------   04.65 %
+```
+
 <!--END_SECTION:waka-->
