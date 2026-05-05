@@ -23,14 +23,5 @@ I've been interested in programming and understanding complex systems. Currently
 
 <b>My GitHub Stats</b>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 26 April 2026 - To: 03 May 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
