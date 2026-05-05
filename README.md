@@ -23,5 +23,6 @@ I've been interested in programming and understanding complex systems. Currently
 
 <b>My GitHub Stats</b>
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
