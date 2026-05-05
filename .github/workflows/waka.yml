@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka README
 
 on:
   # for manual workflow trigger
@@ -9,12 +9,13 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://wakapi.cboppmancave.fun/api/compat/wakatime/v1/
           ### content
           SHOW_TITLE: true
           SECTION_NAME: waka
