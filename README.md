@@ -62,6 +62,18 @@ Software engineering student at **42 Lausanne**, working toward the RNCP 7 (Prof
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 05 May 2026 - To: 06 May 2026
+
+Total Time: 2 hrs 6 mins
+
+Markdown   1 hrs 1 mins          >>>>>>>>>>>>-------------   47.94 %
+C          0 hrs 22 mins         >>>>---------------------   17.55 %
+INI        0 hrs 5 mins          >------------------------   04.07 %
+Lua        0 hrs 5 mins          >------------------------   03.76 %
+Asm        0 hrs 3 mins          >------------------------   02.16 %
+```
+
 <!--END_SECTION:waka-->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
