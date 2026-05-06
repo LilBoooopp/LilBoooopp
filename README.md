@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Charlie%20Bopp&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Systems%20%26%20Network%20Architecture%20%7C%2042%20Lausanne%20%7C%20CTF%20Enjoyer&descSize=16&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Charlie%20Bopp&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Systems%20%2B%20Network%20Architecture%20%7C%2042%20Lausanne%20%7C%20CTF%20Enjoyer&descSize=16&descAlignY=55" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=7B61FF&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Systems+%26+Network+Architecture;CTF+%7C+Cybersecurity+Enthusiast;Full+Stack+%7C+React+%7C+NestJS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=7B61FF&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Systems+%26+Network+Architecture;CTF+%7C+Cybersecurity+Enthusiast;Binary+Packer+%7C+Assembly" alt="Typing SVG" />
 
 ---
 
@@ -10,7 +10,7 @@
 
 Software engineering student at **42 Lausanne**, working toward the RNCP 7 (Professional Masters) in System and Network Architecture. Passionate about low-level systems, CTF challenges, and full-stack development.
 
-🌍 Lausanne, Switzerland &nbsp;·&nbsp; ✉️ [charlie.bopp@live.com](mailto:charlie.bopp@live.com) &nbsp;·&nbsp; 🔐 CTFs &nbsp;·&nbsp; 🧠 React · NestJS · PostgreSQL
+🌍 Lausanne, Switzerland &nbsp;·&nbsp; ✉️ [charlie.bopp@live.com](mailto:charlie.bopp@live.com) &nbsp;·&nbsp; 🔐 CTFs &nbsp;·&nbsp; 🧠 ELF64 · ASM · LZSS Compression
 
 ---
 
@@ -26,8 +26,9 @@ Software engineering student at **42 Lausanne**, working toward the RNCP 7 (Prof
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=LilBoooopp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilBoooopp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+<img src="https://github-profile-trophy.vercel.app/?username=LilBoooopp&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LilBoooopp&theme=tokyo-night&hide_border=true" width="100%" />
 
 <img src="https://streak-stats.demolab.com/?user=LilBoooopp&theme=tokyonight&hide_border=true" />
 
