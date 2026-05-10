@@ -63,19 +63,19 @@ Software engineering student at **42 Lausanne**, working toward the RNCP 7 (Prof
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2026 - To: 08 May 2026
+From: 05 May 2026 - To: 09 May 2026
 
-Total Time: 11 hrs 4 mins
+Total Time: 12 hrs 5 mins
 
-C             7 hrs 3 mins          >>>>>>>>>>>>>>>>---------   63.61 %
-Markdown      1 hrs 18 mins         >>>----------------------   11.80 %
-Makefile      1 hrs 5 mins          >>-----------------------   09.80 %
-Bash          0 hrs 21 mins         >------------------------   03.11 %
-Lua           0 hrs 12 mins         -------------------------   01.79 %
-Ezhil         0 hrs 9 mins          -------------------------   01.37 %
-Asm           0 hrs 7 mins          -------------------------   01.08 %
-INI           0 hrs 5 mins          -------------------------   00.78 %
-Gitignore     0 hrs 5 mins          -------------------------   00.75 %
+C             7 hrs 29 mins         >>>>>>>>>>>>>>>----------   61.97 %
+Markdown      1 hrs 19 mins         >>>----------------------   10.83 %
+Makefile      1 hrs 5 mins          >>-----------------------   08.97 %
+Lua           0 hrs 43 mins         >------------------------   05.95 %
+Bash          0 hrs 21 mins         >------------------------   02.85 %
+Ezhil         0 hrs 12 mins         -------------------------   01.61 %
+Asm           0 hrs 7 mins          -------------------------   00.99 %
+INI           0 hrs 5 mins          -------------------------   00.71 %
+Gitignore     0 hrs 5 mins          -------------------------   00.68 %
 ```
 
 <!--END_SECTION:waka-->
