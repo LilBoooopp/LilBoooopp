@@ -8,9 +8,9 @@
 
 ### About Me
 
-Software engineering student at **42 Lausanne**, working toward the RNCP 7 (Professional Masters) in System and Network Architecture. Passionate about low-level systems, CTF challenges, and full-stack development.
+Software engineering student at **Codam (42 Amsterdam)**, working toward the RNCP 7 (Professional Masters) in System and Network Architecture. Passionate about low-level systems, CTF challenges, and full-stack development.
 
-🌍 Lausanne, Switzerland &nbsp;·&nbsp; ✉️ [charlie.bopp@live.com](mailto:charlie.bopp@live.com) &nbsp;·&nbsp; 🔐 CTFs &nbsp;·&nbsp; 🧠 ELF64 · ASM · LZSS Compression
+🌍 Rotterdam, Netherlands &nbsp;·&nbsp; ✉️ [charlie.bopp@live.com](mailto:charlie.bopp@live.com) &nbsp;·&nbsp; 🔐 CTFs &nbsp;·&nbsp; 🧠 ELF64 · ASM · LZSS Compression
 
 ---
 
