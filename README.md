@@ -26,9 +26,9 @@ Software engineering student at **Codam (42 Amsterdam)**, working toward the RNC
 
 ### GitHub Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=LilBoooopp&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+<img src="https://raw.githubusercontent.com/LilBoooopp/LilBoooopp/main/assets/trophy.svg" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LilBoooopp&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://raw.githubusercontent.com/LilBoooopp/LilBoooopp/main/assets/activity-graph.svg" width="100%" />
 
 <img src="https://streak-stats.demolab.com/?user=LilBoooopp&theme=tokyonight&hide_border=true" />
 
