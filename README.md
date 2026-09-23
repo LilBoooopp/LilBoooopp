@@ -65,13 +65,13 @@ Software engineering student at **Codam (42 Amsterdam)**, working toward the RNC
 ```txt
 From: 17 September 2026 - To: 21 September 2026
 
-Total Time: 1 hrs 54 mins
+Total Time: 1 hrs 43 mins
 
-C          1 hrs 28 mins         >>>>>>>>>>>>>>>>>>>------   77.05 %
-Lua        0 hrs 19 mins         >>>>---------------------   16.76 %
-Text       0 hrs 5 mins          >------------------------   04.40 %
-Markdown   0 hrs 1 mins          -------------------------   01.16 %
-Bash       0 hrs 1 mins          -------------------------   00.63 %
+C          1 hrs 17 mins         >>>>>>>>>>>>>>>>>>>------   74.61 %
+Lua        0 hrs 19 mins         >>>>>--------------------   18.54 %
+Text       0 hrs 5 mins          >------------------------   04.86 %
+Markdown   0 hrs 1 mins          -------------------------   01.29 %
+Bash       0 hrs 1 mins          -------------------------   00.69 %
 Makefile   0 hrs 0 mins          -------------------------   00.00 %
 ```
 
