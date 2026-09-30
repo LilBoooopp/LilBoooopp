@@ -63,12 +63,12 @@ Software engineering student at **Codam (42 Amsterdam)**, working toward the RNC
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2026 - To: 26 September 2026
+From: 26 September 2026 - To: 30 September 2026
 
-Total Time: 0 hrs 0 mins
+Total Time: 0 hrs 18 mins
 
-C          0 hrs 0 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
-Markdown   0 hrs 0 mins          -------------------------   00.00 %
+Markdown   0 hrs 16 mins         >>>>>>>>>>>>>>>>>>>>>>---   88.25 %
+C          0 hrs 2 mins          >>>----------------------   11.75 %
 ```
 
 <!--END_SECTION:waka-->
