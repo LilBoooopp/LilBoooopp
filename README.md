@@ -70,8 +70,8 @@ Total Time: 0 hrs 11 mins
 C              0 hrs 6 mins          >>>>>>>>>>>>>>-----------   56.10 %
 Unknown        0 hrs 4 mins          >>>>>>>>>----------------   34.82 %
 Diff           0 hrs 1 mins          >>-----------------------   09.08 %
-Actionscript   0 hrs 0 mins          -------------------------   00.00 %
 Text           0 hrs 0 mins          -------------------------   00.00 %
+Actionscript   0 hrs 0 mins          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
