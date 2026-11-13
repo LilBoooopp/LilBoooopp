@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  trophy:
+  graphics:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -17,13 +17,10 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: LilBoooopp
-          output_path: assets/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          file: assets/trophy.svg
+          # GITHUB_TOKEN can't read user stats; needs a PAT (read:user)
+          token: ${{ secrets.TROPHY_TOKEN }}
 
-  activity-graph:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
