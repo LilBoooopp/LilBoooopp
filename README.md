@@ -63,18 +63,18 @@ Software engineering student at **Codam (42 Amsterdam)**, working toward the RNC
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2026 - To: 13 November 2026
+From: 08 November 2026 - To: 14 November 2026
 
-Total Time: 8 hrs 52 mins
+Total Time: 8 hrs 50 mins
 
-C              6 hrs 0 mins          >>>>>>>>>>>>>>>>>--------   67.75 %
-Bash           0 hrs 42 mins         >>-----------------------   07.93 %
-Markdown       0 hrs 36 mins         >>-----------------------   06.71 %
-Makefile       0 hrs 34 mins         >>-----------------------   06.41 %
-Actionscript   0 hrs 17 mins         >------------------------   03.12 %
-Unknown        0 hrs 11 mins         >------------------------   02.01 %
-Prolog         0 hrs 10 mins         -------------------------   01.79 %
-Ezhil          0 hrs 6 mins          -------------------------   01.08 %
+C              6 hrs 0 mins          >>>>>>>>>>>>>>>>>--------   68.03 %
+Bash           0 hrs 42 mins         >>-----------------------   07.97 %
+Makefile       0 hrs 34 mins         >>-----------------------   06.43 %
+Markdown       0 hrs 33 mins         >>-----------------------   06.24 %
+Actionscript   0 hrs 17 mins         >------------------------   03.13 %
+Unknown        0 hrs 11 mins         >------------------------   02.02 %
+Prolog         0 hrs 10 mins         -------------------------   01.80 %
+Ezhil          0 hrs 6 mins          -------------------------   01.09 %
 Lua            0 hrs 5 mins          -------------------------   01.00 %
 ```
 
